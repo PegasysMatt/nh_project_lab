@@ -1,3 +1,6 @@
 three
 lines
 of text
+Now, 
+its
+six!
